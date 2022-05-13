@@ -14,6 +14,7 @@
 		EA5A2712282C1C8000E7BED3 /* NewWordProject.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = EA5A2710282C1C8000E7BED3 /* NewWordProject.xcdatamodeld */; };
 		EA5A2714282C1C8100E7BED3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA5A2713282C1C8100E7BED3 /* Assets.xcassets */; };
 		EA5A2717282C1C8100E7BED3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA5A2715282C1C8100E7BED3 /* LaunchScreen.storyboard */; };
+		EA5A271F282C231300E7BED3 /* Shadow.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA5A271E282C231300E7BED3 /* Shadow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		EA5A2713282C1C8100E7BED3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EA5A2716282C1C8100E7BED3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EA5A2718282C1C8100E7BED3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EA5A271E282C231300E7BED3 /* Shadow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shadow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				EA5A2715282C1C8100E7BED3 /* LaunchScreen.storyboard */,
 				EA5A2718282C1C8100E7BED3 /* Info.plist */,
 				EA5A2710282C1C8000E7BED3 /* NewWordProject.xcdatamodeld */,
+				EA5A271E282C231300E7BED3 /* Shadow.swift */,
 			);
 			path = NewWordProject;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 			files = (
 				EA5A2712282C1C8000E7BED3 /* NewWordProject.xcdatamodeld in Sources */,
 				EA5A270C282C1C8000E7BED3 /* ViewController.swift in Sources */,
+				EA5A271F282C231300E7BED3 /* Shadow.swift in Sources */,
 				EA5A2708282C1C8000E7BED3 /* AppDelegate.swift in Sources */,
 				EA5A270A282C1C8000E7BED3 /* SceneDelegate.swift in Sources */,
 			);
